@@ -1,5 +1,5 @@
 ## EndoMatrix Labs
-![EndoMatrix logo](https://drive.google.com/drive/u/0/folders/1VWIELVZZ3bTU9g-jxYHthARw6tbstH36)
+![EndoMatrix logo](https://drive.google.com/uc?export=view&id=1r1g1IIydSPu3G1EAvneG89jg0TR_DuKO)
 
 <!--
 

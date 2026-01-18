@@ -2,7 +2,7 @@
 ![EndoMatrix logo](https://drive.google.com/uc?export=view&id=1r1g1IIydSPu3G1EAvneG89jg0TR_DuKO)
 
 ### About Us
-EndoMatrix Labs is building a **living model for lifelong hormonal health**. Our mission is to help individuals understand, monitor, and optimize their hormonal wellbeing throughout all stages of life—from puberty, pregnancy, and postpartum, to menopause. By combining cutting-edge technology with insights from endocrinology, dermatology, nutrition, and physiology, we aim to provide personalized guidance that goes beyond awareness, empowering proactive health management.
+EndoMatrix Labs is building a **technology that helps women understand and adapt to hormonal changes across the lifespan by translating endocrine patterns into practical, everyday guidance.**. Our mission is to help individuals understand, monitor, and optimize their hormonal wellbeing throughout all stages of life—from puberty, pregnancy, and postpartum, to menopause. By combining cutting-edge technology with insights from endocrinology, dermatology, nutrition, and physiology, we aim to provide personalized guidance that goes beyond awareness, empowering proactive health management.
 
 ### Our Products
 - **Endocrine Digital Twin:** A personalized model that evolves with an individual, mapping hormonal changes and providing actionable lifestyle insights.  
